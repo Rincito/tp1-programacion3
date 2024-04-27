@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "662d41519d6a98cb54de6149"
+  },
+  "nombre": "The Last of Us",
+  "genero": "horror",
+  "lanzamiento": "14 de junio de 2013",
+  "createdAt": {
+    "$date": "2024-04-27T18:17:53.851Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T18:17:53.851Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d41d19d6a98cb54de6157"
+  },
+  "nombre": "Age of Mythology",
+  "genero": "RTS",
+  "lanzamiento": "31 de octubre de 2002",
+  "createdAt": {
+    "$date": "2024-04-27T18:20:01.227Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-27T18:20:01.227Z"
+  },
+  "__v": 0
+}]

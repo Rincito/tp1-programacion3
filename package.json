@@ -1,0 +1,25 @@
+{
+  "name": "tp1-prog",
+  "version": "1.0.0",
+  "description": "Trabajo practico 1 para programacion 3",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "api"
+  ],
+  "author": "Andújar Tomás Mateo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
